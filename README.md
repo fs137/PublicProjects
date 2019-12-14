@@ -1,4 +1,4 @@
-# PublicProjects
+# Colloidal Crystals Research
 
 CSIM:  A simulation of spherical colloids near a largish cylinder, with Asakura-Oosawa depletion forces.
   This is essentially an offshoot from a simple prototype developed by Prof. Chris Rycroft. Most if not all
