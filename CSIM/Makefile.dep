@@ -1,0 +1,4 @@
+common.o: common.cc common.hh
+common_tasks.o: common_tasks.cc common_tasks.hh
+networks.o: networks.cc networks.hh common_tasks.hh
+depl_sim.o: depl_sim_nl.cc depl_sim_nl.hh common.hh dpart.hh networks.hh common_tasks.hh
